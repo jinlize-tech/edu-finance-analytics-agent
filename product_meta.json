@@ -1,0 +1,24 @@
+{
+  "number": 86,
+  "product_id": "JLZ-EDU-AG-017",
+  "chinese_name": "财务经营分析",
+  "english_name": "Finance Analytics Agent",
+  "repository_name": "edu-finance-analytics-agent",
+  "product_type": "Agent",
+  "category": "07 财务运营中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-finance-analytics-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "收入、成本、现金、应收、课包负债、班级与校区数据、统计口径",
+  "main_output": "经营指标、趋势、结构分析、异常项、情景假设和管理建议",
+  "package_entries": [
+    "edu-finance-analytics-agent/.codebuddy-plugin/plugin.json",
+    "edu-finance-analytics-agent/agents/edu-finance-analytics-agent.md",
+    "edu-finance-analytics-agent/avatars/expert.png",
+    "edu-finance-analytics-agent/README.md"
+  ]
+}

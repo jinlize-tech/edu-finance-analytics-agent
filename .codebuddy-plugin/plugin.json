@@ -1,0 +1,63 @@
+{
+  "name": "edu-finance-analytics-agent",
+  "version": "1.0.0",
+  "description": "Multi-step education operations assistant for Finance Analytics Agent.",
+  "author": {
+    "name": "广州金励泽科技服务有限公司",
+    "email": "270911570+yangsongbaofu-dot@users.noreply.github.com"
+  },
+  "agents": [
+    "./agents/edu-finance-analytics-agent.md"
+  ],
+  "expertType": "agent",
+  "agentName": "edu-finance-analytics-agent",
+  "displayName": {
+    "en": "Finance Analytics Agent",
+    "zh": "财务经营分析"
+  },
+  "profession": {
+    "en": "Finance Analytics Agent",
+    "zh": ""
+  },
+  "displayDescription": {
+    "en": "A multi-step education agent for Finance Analytics Agent, producing reviewable plans with human checkpoints.",
+    "zh": "提供财务经营分析专业协作，完成多步骤分析、方案设计与复盘，输出可执行成果并保留人工确认。"
+  },
+  "avatar": "avatars/expert.png",
+  "categoryId": "15-Education",
+  "defaultInitPrompt": {
+    "en": "Help me complete Finance Analytics Agent.",
+    "zh": "请帮我完成一次财务经营分析"
+  },
+  "plugin": "edu-finance-analytics-agent",
+  "tags": [
+    {
+      "en": "Finance Operations",
+      "zh": "财务运营"
+    },
+    {
+      "en": "Business Analysis",
+      "zh": "经营测算"
+    },
+    {
+      "en": "Education",
+      "zh": "教培机构"
+    }
+  ],
+  "quickPrompts": [
+    {
+      "en": "Help me complete Finance Analytics Agent.",
+      "zh": "请帮我完成一次财务经营分析"
+    },
+    {
+      "en": "Diagnose my supplied education-business information and propose next steps.",
+      "zh": "请诊断我提供的业务资料并给出下一步行动"
+    },
+    {
+      "en": "Generate 经营指标、趋势、结构分析、异常项、情景假设和管理建议 with risks and open questions.",
+      "zh": "请生成经营指标、趋势、结构分析、异常项、情景假设和管理建议，并列出风险与待确认事项"
+    }
+  ],
+  "homepage": "https://github.com/jinlize-tech/edu-finance-analytics-agent",
+  "license": "Apache-2.0"
+}
