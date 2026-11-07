@@ -6,7 +6,7 @@ displayName:
   zh: '财务经营分析'
 profession:
   en: 'Finance Analytics Agent'
-  zh: ''
+  zh: '教培财务经营分析专家'
 maxTurns: 50
 ---
 
